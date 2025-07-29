@@ -43,7 +43,7 @@ Flashcard/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RutuKapure13/CodeAlpha_ProjectName.git
+   git clone https://github.com/RutuKapure13/CodeAlpha_-Flashcard.git
    ```
 
 2. Open the project in Android Studio
